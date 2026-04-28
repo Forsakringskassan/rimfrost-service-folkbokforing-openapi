@@ -1,3 +1,26 @@
+## 2.0.0 (2026-04-28)
+
+### Breaking changes
+
+-  release 1.0 ([8ad8c](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/8ad8c0f3c5a92d4) Nils Elveros)  
+
+### Features
+
+-  release 1.0 ([8ad8c](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/8ad8c0f3c5a92d4) Nils Elveros)  
+
+### Bug Fixes
+
+-  **deps**  update jackson monorepo to v2.21.2 ([f4caa](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/f4caa97b7cac3b2) renovate[bot])  
+-  **deps**  update jackson monorepo to v2.21.1 ([b071d](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/b071d2b0b05a87a) renovate[bot])  
+-  removing NPM_TOKEN ([bb607](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/bb607d9aa16433b) Tomas Bjerre)  
+-  **deps**  update jackson monorepo ([34fb0](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/34fb083b15b9191) renovate[bot])  
+
+### Dependency updates
+
+- update gradle to v9.4.1 ([38052](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/380521e88d99071) renovate[bot])  
+- update gradle to v9.4.0 ([95d7f](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/95d7ff881f9505b) renovate[bot])  
+- update gradle to v9.3.1 ([3ab8c](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/3ab8c26292b262a) renovate[bot])  
+- update gradle to v9.3.0 ([aa8df](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/aa8df5b8e4e183f) renovate[bot])  
 ## 1.5.0 (2025-11-27)
 
 ### Bug Fixes

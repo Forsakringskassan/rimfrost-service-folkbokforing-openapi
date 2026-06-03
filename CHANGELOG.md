@@ -1,3 +1,15 @@
+## 2.0.1 (2026-06-03)
+
+### Bug Fixes
+
+-  **deps**  update jackson monorepo to v2.21.4 ([4a26d](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/4a26ddf45a0b0d9) renovate[bot])  
+-  **deps**  update dependency se.fk.gradle:gradle-conventions to v1.18.2 ([fd003](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/fd003edcc1ac51d) renovate[bot])  
+-  **deps**  update jackson monorepo to v2.21.3 ([bee9c](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/bee9c71523280d6) renovate[bot])  
+
+### Dependency updates
+
+- update gradle to v9.5.1 ([e34dc](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/e34dcca065f385f) renovate[bot])  
+- update gradle to v9.5.0 ([2e9c0](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/2e9c0e6b06d8737) renovate[bot])  
 ## 2.0.0 (2026-04-28)
 
 ### Breaking changes

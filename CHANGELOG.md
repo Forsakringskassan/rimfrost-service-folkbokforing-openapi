@@ -1,3 +1,22 @@
+## 2.0.2 (2026-08-28)
+
+### Bug Fixes
+
+-  **deps**  update jackson monorepo to v2.22.2 ([b0251](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/b025152b91a6d82) renovate[bot])  
+-  **deps**  update jackson monorepo to v2.22.1 ([ae737](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/ae737ffacc3d676) renovate[bot])  
+-  Replace npm workflows with gradle workflows ([ff2a3](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/ff2a366c98ec965) Lars Persson)  
+-  **deps**  update dependency se.fk.gradle:gradle-conventions to v1.18.3 ([97aec](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/97aec77ebaf7ce4) renovate[bot])  
+-  **deps**  update jackson monorepo to v2.22.0 ([0459c](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/0459c3e6502a544) renovate[bot])  
+-  **deps**  update jackson monorepo to v2.22 ([c4b51](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/c4b514fde8339df) renovate[bot])  
+
+### Dependency updates
+
+- update forsakringskassan/.github digest to d1349e6 ([430f0](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/430f086bdb663eb) renovate[bot])  
+- update gradle to v9.7.1 ([ae790](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/ae7907d6ac81214) renovate[bot])  
+- pin forsakringskassan/.github action to 3d07e55 ([1f0ef](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/1f0efc4b187a473) renovate[bot])  
+- update gradle to v9.7.0 ([4ed82](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/4ed825a1e921e38) renovate[bot])  
+- update gradle to v9.6.1 ([e280c](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/e280cfc3fa6ac60) renovate[bot])  
+- update gradle to v9.6.0 ([7e4dd](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/7e4dd503fc653cb) renovate[bot])  
 ## 2.0.1 (2026-06-03)
 
 ### Bug Fixes

@@ -1,3 +1,19 @@
+## 2.0.3 (2026-10-27)
+
+### Bug Fixes
+
+-  Replace github workflows ([529c1](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/529c1708f10c956) Lars Persson)  
+-  **deps**  update jackson monorepo to v2.22.4 ([3d48d](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/3d48d24f47ebd54) renovate[bot])  
+-  **deps**  update jackson monorepo to v2.22.3 ([6c78d](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/6c78d006e858b31) renovate[bot])  
+
+### Dependency updates
+
+- update forsakringskassan/.github digest to 733eb32 ([15368](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/15368a00edf8400) renovate[bot])  
+- update gradle to v9.8.2 ([480c1](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/480c109ccf7e7e8) renovate[bot])  
+- update forsakringskassan/.github digest to cbd74f1 ([6008b](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/6008ba947f32f5c) renovate[bot])  
+- update gradle to v9.8.1 ([c3945](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/c39454735066326) renovate[bot])  
+- update gradle to v9.8.0 ([d4ae0](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/d4ae0f2ff1cbccd) renovate[bot])  
+- update forsakringskassan/.github digest to bfb01f7 ([9f08c](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing-openapi/commit/9f08c6f4cd9417f) renovate[bot])  
 ## 2.0.2 (2026-08-28)
 
 ### Bug Fixes
